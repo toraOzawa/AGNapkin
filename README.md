@@ -1,9 +1,12 @@
 # An Algebraic Geometric Napkin
 Ongoing expository project vaguely akin to the "The Napkin Project". The motivations and subject matter will be fairly different, however the operational philosphy is somewhat similar: exposit on things with precise concepts and defintions, but completely forgo any compelete rigorous proofs by giving the intuitive feeling of why the theory holds (while giving appropiate appendices and references for those who want rigor). 
 
-The name will be somewhat misleading, as the project will be steered towards the biases of my curiosities and interests, which will involve multiple facets of (algebraic) number theory and mathematical logic (mainly model theory, homotopy type theory, and topos theory). More on this below.    
+The name will be somewhat misleading, as the project will be steered towards the biases of my curiosities and interests, which will involve multiple facets of (algebraic) number theory and mathematical logic (mainly model theory, homotopy type theory, and topos theory). More on this below. 
 
-# Background
+# Preqreuisites
+Basic familiarity with abstract algebra and point set topology. In particular one only really needs some ring theory, basic definitions of topology, continuity, and connectedness. Familiarity with category theory is fairly desired for the topics I am interested in, but certainly not strictly necessary immediately. Lots of things can be picked up on the fly, especially with the right additional sources. 
+
+# Background on the Project
 
 The name of the project is "An Algebraic Geometric Napkin" because it arose during my own studies of algebraic geometry. I do not have a regularly occuring formal course in algebraic geometry at my home undergraduate instution, and so I have had to bootstrap a decent portion of my learning. I was somewhat distraught regarding the various approaches to the subject I ecnountered, so I aim to make this project as accessible as possible, while synthezing various approaches, only essentially requiring basic familiarity with abstract algebra and point set topology. Familiarity with category theory is fairly desired for the topics I am interested in, but certainly not strictly necessary immediately. 
 
