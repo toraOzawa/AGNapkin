@@ -1,5 +1,5 @@
 # An Algebraic Geometric Napkin
-Ongoing expository project vaguely akin to the "The Napkin Project". The motivations and subject matter will be fairly different, however the operational philosphy is somewhat similar: exposit on things with precise concepts and defintions, but completely forgo any rigorous proofs by giving the intuitive feeling of why the theory holds (while giving appropiate appendices and references for those who want rigor). 
+Ongoing expository project vaguely akin to the "The Napkin Project". The motivations and subject matter will be fairly different, however the operational philosphy is somewhat similar: exposit on things with precise concepts and defintions, but completely forgo any compelete rigorous proofs by giving the intuitive feeling of why the theory holds (while giving appropiate appendices and references for those who want rigor). 
 
 The name will be somewhat misleading, as the project will be steered towards the biases of my curiosities and interests, which will involve multiple facets of (algebraic) number theory and mathematical logic (mainly model theory, homotopy type theory, and topos theory). More on this below.    
 
