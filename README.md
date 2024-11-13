@@ -15,4 +15,4 @@ As I am learning the basics of algebraic geometry, both through the classical, c
 In turn, as a senior undegraduate, I am trying to learn and feel out different subareas of algebraic geometry as well as Moreover, although Vakil describes Algebraic Geometry as "shallow and broad", .
 
 # Roadmap
-The main project plan is to write up what things in relation to what I am currently learning: Vakil's *The Rising Sea* and [Classical Algebraic Geometry] (https://mathinmoscow.org/courses/algebraic-geometry-start-up-course/).
+The main project plan is to write up what things in relation to what I am currently learning: Vakil's *The Rising Sea* and *[Classical Algebraic Geometry] (https://mathinmoscow.org/courses/algebraic-geometry-start-up-course/).
