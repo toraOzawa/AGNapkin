@@ -20,7 +20,7 @@ The aim of this text is not to be a reference, but rather set up basic definitio
 # Organization
 It will be essential to have some form of common understanding. The current plan is to have the project similar in form to the Stacks project. In content it will be much less encyclopedic, and (hopefully) have a broader aim. Since github markdown editors and displays allow latex embeddings fairly smoothly nowdays, to make development as easy as possible I will resort to using github repos directly. 
 
-[Site](Site\ 0:\ Logical\ Foundations)
+[Site](Site_0:_Logical_Foundations)
 
 
 
