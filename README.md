@@ -12,7 +12,7 @@ The aim of this text is not to be a reference, but rather set up basic definitio
 
 As I am learning the basics of algebraic geometry, both through the classical, concrete perspective, as well as the more modern scheme theoretic perspective, I can't help but feel there is a good way to sythesize the two approaches. 
 
-In turn, as a senior undegraduate, I am trying to learn and feel out different subareas of algebraic geometry as well as Moreover, although Vakil describes Algebraic Geometry as "shallow and broad", .
+In turn, as a senior undegraduate, I am trying to learn and feel out different subareas of algebraic geometry as well as Moreover, although Vakil describes Algebraic Geometry as "shallow and broad".
 
 # Organization
 It will be essential to have some form of common understanding. 
