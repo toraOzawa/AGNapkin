@@ -6,6 +6,8 @@ The name will be somewhat misleading, as the project will be steered towards the
 # Roadmap
 My main aim right now is to write up learning in the foundations of AG: [Classical Algebraic Geometry](https://mathinmoscow.org/courses/algebraic-geometry-start-up-course/) and Vakil's [*The Rising Sea*](https://math.stanford.edu/~vakil/216blog/) and how these two different approaches relate. 
 
+Otherwise will write about other interests time permitting.
+
 # Preqreuisites
 Basic familiarity with abstract algebra and point set topology. In particular one only really needs some ring theory, basic definitions of topology, continuity, and connectedness. Familiarity with category theory is fairly desired for the topics I am interested in, but certainly not strictly necessary immediately. Lots of things can be picked up on the fly, especially with the right additional sources. 
 
