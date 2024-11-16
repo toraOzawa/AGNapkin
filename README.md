@@ -14,17 +14,24 @@ Otherwise will write about other interests time permitting.
 Basic familiarity with abstract algebra and point set topology. In particular one only really needs some ring theory, basic definitions of topology, continuity, and connectedness. Familiarity with category theory is fairly desired for the topics I am interested in, but certainly not strictly necessary immediately. Lots of things can be picked up on the fly, especially with the right additional sources. 
 <br/> <br/>
 # Organization
-It will be essential to have some form of common understanding. The current plan is to have the project similar in form to the Stacks project. In content it will be much less encyclopedic, and (hopefully) have a broader aim. Since github markdown editors and displays allow latex embeddings fairly smoothly nowdays, to make development as easy as possible I will resort to using github repos directly. 
+It will be essential to have some form of common understanding. The current plan is to have the project similar in form to the Stacks project. In content it will be much less encyclopedic, and (hopefully) have a broader aim. 
+
+Instead of chapters we will have "sites" and these will be numbered almost purely for means of referencing material in them. Each site will be both a directory in this repo and a "chapter" in a linearized form of the project. The former will be mostly so that references for learning the material proerply can be added and so chunks of the material can be in pdf form. The latter will be for those who prefer the more monolithic version.   
+
+
+If github markdown editors and displays allow latex embeddings fairly smoothly someday or I get around to setting up websites, I may convince myself to make a conversion.  
 
 ### [Site](Site_0:_Logical_Foundations)
+Sheaves, Category theory, some algbera, and some logic technicalities. 
 
+<br/> <br/>
 # More Background on the Project
 
 The name of the project is "An Algebraic Geometric Napkin" because it arose during my own studies of algebraic geometry. I do not have a regularly occuring formal course in algebraic geometry at my home undergraduate instution, and so I have had to bootstrap a decent portion of my learning. I was somewhat distraught regarding the various approaches to the subject I ecnountered, so I aim to make this project as accessible as possible, while "synthezing various" approaches to the subject. 
 
 At the time I had varying levels of experience and mastery of some Riemann Surface theory, algebraic topology, commutative and homological algebra, differential topology, complex analysis, algebraic number theory, and french. Such a background provided a decent basis not in a strictly material way. Because I had seen some related techniques, objects 
 
-The aim of this text is not to be a reference, but rather set up basic definitions, theorems and intution in the same vein as "The Napkin" does. The difference being that I am largely curious about lots of things, some not entirely algebraic geometric. Topos theory is a good example of an area that came out of algberaic geometric ideas, but has since become its own subject. Another example of an area I have a passing interest in is be homotopy type theory: learning about its existence is what go me into pure mahtematics, and it plays a role in synthetic algebraic geometry, and connects to category theory very generally. Model theory is perhaps the most isolated, but there are still plenty of fruitful interactions of the area with algebraic geometric subjects. See [motivic integration](https://ncatlab.org/nlab/show/motivic+integration). 
+The aim of this text is not to be a reference, but rather to formally state basic definitions, some examples, theorems in the same vein as "The Napkin" does (while providing intuition). The difference being that I am largely curious about lots of things, some not entirely algebraic geometric. Topos theory is a good example of an area that came out of algberaic geometric ideas, but has since become its own subject. Another example of an area I have a passing interest in is be homotopy type theory: learning about its existence is what go me into pure mathematics, and it plays a role in synthetic algebraic geometry, and connects to category theory very generally. Model theory is perhaps the most isolated, but there are still plenty of fruitful interactions of the area with algebraic geometric subjects. See [motivic integration](https://ncatlab.org/nlab/show/motivic+integration). 
 
 
 
