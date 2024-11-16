@@ -21,7 +21,7 @@ Instead of chapters we will have "sites" and these will be numbered almost purel
 
 If github markdown editors and displays allow latex embeddings fairly smoothly someday or I get around to setting up websites, I may convince myself to make a conversion.  
 
-### [Site](Site_0:_Logical_Foundations)
+### [Site 0: Logical Foundations](Site_0:_Logical_Foundations)
 Sheaves, Category theory, some algbera, and some logic technicalities. 
 
 <br/> <br/>
