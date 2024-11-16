@@ -13,7 +13,7 @@ Otherwise will write about other interests time permitting.
 # Preqreuisites
 Basic familiarity with abstract algebra and point set topology. In particular one only really needs some ring theory, basic definitions of topology, continuity, and connectedness. Familiarity with category theory is fairly desired for the topics I am interested in, but certainly not strictly necessary immediately. Lots of things can be picked up on the fly, especially with the right additional sources. 
 <br/> <br/>
-# Organization
+# Organization 
 It will be essential to have some form of common understanding. The current plan is to have the project similar in form to the Stacks project. In content it will be much less encyclopedic, and (hopefully) have a broader aim. 
 
 Instead of chapters we will have "sites" and these will be numbered almost purely for means of referencing material in them. Each site will be both a directory in this repo and a "chapter" in a linearized form of the project. The former will be mostly so that references for learning the material proerply can be added and so chunks of the material can be in pdf form. The latter will be for those who prefer the more monolithic version.   
@@ -21,11 +21,11 @@ Instead of chapters we will have "sites" and these will be numbered almost purel
 
 If github markdown editors and displays allow latex embeddings fairly smoothly someday or I get around to setting up websites, I may convince myself to make a conversion.  
 
-# [Site 0: Logical Foundations](Site_0:_Logical_Foundations)
+# [Site 0: Logical Foundations](https://github.com/toraOzawa/AGNapkin/tree/main/Site%200%3A%20Logical%20Foundations)
 Sheaves, Category theory, some algbera, and some logic technicalities. 
 
 <br/> <br/>
-# More Background on the Project
+# More Background on the Project 
 
 The name of the project is "An Algebraic Geometric Napkin" because it arose during my own studies of algebraic geometry. I do not have a regularly occuring formal course in algebraic geometry at my home undergraduate instution, and so I have had to bootstrap a decent portion of my learning. I was somewhat distraught regarding the various approaches to the subject I ecnountered, so I aim to make this project as accessible as possible, while "synthezing various" approaches to the subject. 
 
