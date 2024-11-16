@@ -1,6 +1,6 @@
 # Logical Foundations
 ### Goal 1
-Define a sheaf and provide the main definitions and results on Category Theory while referencing appropiate places to learn more and appropiate proofs. 
+Define a Sheaf and provide the main definitions and results on Category Theory while referencing appropiate places to learn more and appropiate proofs. 
 
 ### Goal 2
 State technical definitions and results on algebra that are at least somewhat required in learning algebraic geometry. 
