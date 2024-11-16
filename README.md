@@ -4,7 +4,9 @@ Ongoing expository project vaguely akin to the [The Napkin Project](https://web.
 The name will be somewhat misleading, as the project will be steered towards the biases of my curiosities and interests, which will involve multiple facets of mathematical logic (mainly model theory, homotopy type theory, and topos theory) as well as some (algebraic) number theory. More on this below. 
 
 # Roadmap
-My main aim right now is to write up learning in the foundations of AG: [Classical Algebraic Geometry](https://mathinmoscow.org/courses/algebraic-geometry-start-up-course/) and Vakil's [*The Rising Sea*](https://math.stanford.edu/~vakil/216blog/) and how these two different approaches relate. 
+My main aim right now is to write up learning in the foundations of AG: [Classical Algebraic Geometry](https://mathinmoscow.org/courses/algebraic-geometry-start-up-course/) and Vakil's [*The Rising Sea*](https://math.stanford.edu/~vakil/216blog/) and how these two different approaches relate.
+
+Any constructive crticism or advice is much appreciated. 
 
 Otherwise will write about other interests time permitting.
 
