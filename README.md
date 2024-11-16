@@ -1,18 +1,18 @@
 # An Algebraic Geometric Napkin
-Ongoing expository project vaguely akin to the [The Napkin Project](https://web.evanchen.cc/napkin.html). The motivations and subject matter will be very different, however the operational philosphy is somewhat similar: exposit on things with precise concepts and defintions, but completely forgo any compelete rigorous proofs by giving the intuitive feeling of why the theory holds (while giving appropiate appendices and references for those who want rigor). Will draw from and reference many sources, napkin included. Likewise, this project is not meant to be a rigorous primary source one will use to learn algebraic geometry and/or related areas: it is meant to give a glimpse of what is out there for those new to the subject, those currently learning it, those curious about the areas presented, and, hopefully at some point, practitioners. 
+Ongoing expository project vaguely akin to the [The Napkin Project](https://web.evanchen.cc/napkin.html). The motivations and subject matter will be very different, however the operational philosphy is somewhat similar: exposit on things with precise concepts and defintions, but completely forgo any compelete rigorous proofs by giving the intuitive feeling of why the theory holds (while giving appropiate appendices and references for those who want rigor). Will draw from and reference many sources, napkin included. Likewise, this project is not meant to be a rigorous primary source one will use to learn algebraic geometry and/or related areas: it is meant to give a glimpse of what is out there for those new to the subject, those currently learning it, those curious about the areas presented, and, hopefully at some point, practitioners.  
 
 The name will be somewhat misleading, as the project will be steered towards the biases of my curiosities and interests, which will involve multiple facets of mathematical logic (mainly model theory, homotopy type theory, and topos theory) as well as some (algebraic) number theory. More on this below. 
 
+Any constructive crticism or advice is much appreciated.
+<br/> <br/>
 # Roadmap
 My main aim right now is to write up learning in the foundations of AG: [Classical Algebraic Geometry](https://mathinmoscow.org/courses/algebraic-geometry-start-up-course/) and Vakil's [*The Rising Sea*](https://math.stanford.edu/~vakil/216blog/) and how these two different approaches relate.
 
-Any constructive crticism or advice is much appreciated. 
-
 Otherwise will write about other interests time permitting.
-
+<br/> <br/>
 # Preqreuisites
 Basic familiarity with abstract algebra and point set topology. In particular one only really needs some ring theory, basic definitions of topology, continuity, and connectedness. Familiarity with category theory is fairly desired for the topics I am interested in, but certainly not strictly necessary immediately. Lots of things can be picked up on the fly, especially with the right additional sources. 
-
+<br/> <br/>
 # Organization
 It will be essential to have some form of common understanding. The current plan is to have the project similar in form to the Stacks project. In content it will be much less encyclopedic, and (hopefully) have a broader aim. Since github markdown editors and displays allow latex embeddings fairly smoothly nowdays, to make development as easy as possible I will resort to using github repos directly. 
 
